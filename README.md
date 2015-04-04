@@ -13,7 +13,7 @@ A small library providing helpers to create Alfred Workflow
 ## Installation
 
 ```shell
-npm install alfred-workflow-nodejs"
+npm install alfred-workflow-nodejs
 ```
 ## Tests
 
